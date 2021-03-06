@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://muchimochi.com/sitemap.xml
+Disallow: /search
+Disallow: /contact
